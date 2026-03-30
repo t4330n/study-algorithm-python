@@ -1,0 +1,20 @@
+### JetBrains (PyCharm) ###
+.idea/
+*.iws
+out/
+
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+### Windows ###
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Ehthumbs.out
+desktop.ini
+$RECYCLE.BIN/
